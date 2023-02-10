@@ -3,6 +3,8 @@ Python 2.7, with numpy and scipy dependencies are applied, while these scripts a
 NCC IA data inputs and sample mappings are excluded as part of our data agreement and needs to be directly requested from TEDDY Data Coordinating Center (DCC) 
 https://teddy.epi.usf.edu/research/
 
-Please reference MP183 external analysis study, PI Matti Nykter, as part of the communication with TEDDY DCC 
+Please reference MP183 external analysis study, PI Matti Nykter, as part of the communication with TEDDY DCC. Once TEDDY DCC have approved your request, 
+contact matti.nykter@tuni.fi and inquired on the specifics inputs. TEDDY DCC performs masking on subject info, but they can also unmask and cross match on 
+different MPs. 
 
 
