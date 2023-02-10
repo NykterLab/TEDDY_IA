@@ -1,3 +1,8 @@
 Python scripts were used to extract NCC subject samples harmonise for virome and RNASeq, as well as before and after Enterovirus samples match for RNASeq. 
-Python 2.7, with numpy and scipy dependencies are applied, while the scripts are included, 
-NCC IA data inputs and sample mappings, need to be requested from TEDDY DCC (as part of MP183)
+Python 2.7, with numpy and scipy dependencies are applied, while these scripts are provided - 
+NCC IA data inputs and sample mappings are excluded as part of our data agreement and needs to be directly requested from TEDDY Data Coordinating Center (DCC) 
+https://teddy.epi.usf.edu/research/
+
+Please reference MP183 external analysis study, PI Matti Nykter, as part of the communication with TEDDY DCC 
+
+
